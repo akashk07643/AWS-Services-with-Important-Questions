@@ -52,8 +52,8 @@ Questions related S3 Bucket:-
 -> A low-cost storage class for archival data that is accessed rarely.
 
 10. How do you secure an S3 bucket?
-->Enable encryption
-->Disable public access
-->Use IAM roles
-->Enable bucket policy restrictions
-->Use VPC endpoints
+-> 1. Enable encryption
+, 2. Disable public access
+, 3. Use IAM roles
+, 4. Enable bucket policy restrictions
+, 5. Use VPC endpoints
